@@ -9,6 +9,7 @@ public class Hostel {
 			System.out.println("petrol is greater than deiesel");
 		} else {
 			System.out.println("diesel is lesser than petrol");
+			System.out.println("Hi anandha bro");
 		}
 	}
 
